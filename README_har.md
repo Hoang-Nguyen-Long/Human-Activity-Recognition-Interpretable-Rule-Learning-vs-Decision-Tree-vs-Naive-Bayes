@@ -12,11 +12,6 @@ It compares three learners with very different ideas of what a "model" is:
 - **Gaussian Naive Bayes**: probabilistic, assumes features are independent given the activity.
 - **PyGoL-style ILP**: learns human-readable Prolog rules from symbolic background knowledge, run through SWI-Prolog.
 
-> Group coursework (Group Gochugaru, Thread 1) for **COMM075 Machine Learning for Data Science**, University of Surrey.
-
-<p align="center">
-  <img src="assets/thread1_comparison.png" width="95%" alt="Overall and per-activity comparison of the three algorithms">
-</p>
 
 ---
 
@@ -172,8 +167,3 @@ The three model notebooks are independent. `Comparison_HAR.ipynb` reads their re
 - Muggleton, S. (1991). Inductive logic programming. *New Generation Computing*, 8, 295–318.
 
 ## Authors
-
-Group Gochugaru, COMM075 Machine Learning for Data Science, University of Surrey.
-
-- **[Your Name]** — [your contribution] · [LinkedIn](https://linkedin.com/in/your-profile)
-- [Teammate names]
